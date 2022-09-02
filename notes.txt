@@ -1,0 +1,10 @@
+VIRTUAL ENVIRONMENT INSTRUCTIONS TO ACTIVATE
+ ## source venv/bin/activate --- to activate ENVIRONMENT, once activated then you can install packages
+ 
+
+ ## things to fix
+
+ ## cv2 has not attribute 'face' error in face_recognition.py line 123
+ ## get all the table designs and create tables
+
+ 
